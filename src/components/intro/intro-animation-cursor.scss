@@ -1,0 +1,9 @@
+.ityped-cursor {
+  animation: blink 1s infinite;
+}
+
+@keyframes blink {
+  100% {
+    opacity: 0;
+  }
+}
